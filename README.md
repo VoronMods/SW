@@ -1,4 +1,4 @@
-Future home of ## WireBear
+ ## Future home of WireBear
 
 To keep my printer ecosystem the same, so I decided to convert my Bear to SW as I did not have integrated lead screws on it anyway.
 
